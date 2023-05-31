@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishek-baliyan-dev
-- 👀 I’m interested in Apps, Web, Games, Anime, Food
-- 🌱 I’m currently learning Ios, Android, Web
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Apps, Web, Mountains, Sea, Open space
+- 🌱 I’m currently Practicing Web --> Frontend[ HTML, CSS, JavaScript ] + Backend [ Python, Flask, SQLite ]
+- 💞️ I’m looking to collaborate on FullStack Web Projects
 - 📫 How to reach me abhishek.baliyan.dev@gmail.com
 
 <!---
