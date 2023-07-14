@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @abhishek-baliyan-dev
-- 👀 I’m interested in Apps, Web, Mountains, Sea, Open space
-- 🌱 I’m currently Practicing Web --> Frontend[ HTML, CSS, JavaScript ] + Backend [ Python, Flask, SQLite ]
-- 💞️ I’m looking to collaborate on FullStack Web Projects
-- 📫 How to reach me abhishek.baliyan.dev@gmail.com
+- 👀 I’m interested in Flutter - Blogger - Interested in AI - Trying to follow Vedanta & Bhagavad Gita teachings in my life - Vegan
+- 🌱 I’m currently making myself better in Flutter Development.
+- 💞️ I’m looking to collaborate on Flutter Projects.
+- 📫 How to reach me
+    Email - abhishek.baliyan.dev@gmail.com
+    Twitter - https://twitter.com/Abhi___baliyan
 
 <!---
 abhishek-baliyan-dev/abhishek-baliyan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
