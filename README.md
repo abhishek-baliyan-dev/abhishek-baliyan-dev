@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishek-baliyan-dev
-- 👀 I’m interested in Flutter - Blogger - Interested in AI - Trying to follow Vedanta & Bhagavad Gita teachings in my life - Vegan
-- 🌱 I’m currently making myself better in Flutter Development.
-- 💞️ I’m looking to collaborate on Flutter Projects.
+- 👀 I’m interested in Cybersecurity - Full Stack Web development - AI
+- 🍎 I'm Vegan
+- 🌱 I’m currently making myself better in Backend Development [Python, FastAPI] , Cybersecurity [Google Cybersecurity Professional Certificate].
 - 📫 How to reach me
     Email - abhishek.baliyan.dev@gmail.com
     Twitter - https://twitter.com/Abhi___baliyan
