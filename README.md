@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishek-baliyan-dev
 - 👀 I’m interested in Cybersecurity - Full Stack Web development - AI
 - 🍎 I'm Vegan
-- 🌱 I’m currently making myself better in Backend Development [Python, FastAPI] , Cybersecurity [Google Cybersecurity Professional Certificate].
+- 🌱 I’m currently making myself better in Backend Development [Python, FastAPI] , Cybersecurity.
 - 📫 How to reach me
     Email - abhishek.baliyan.dev@gmail.com
     Twitter - https://twitter.com/Abhi___baliyan
