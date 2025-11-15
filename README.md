@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Baliyan [@abhishek-baliyan-dev]
-- 👀 I’m interested in Anime, Archery, Programming.
+- 👀 I’m currently interested in Flutter.
 - 🍎 I'm Vegan
 - 🌱 I’m currently making myself better in Full Stack Web Development
 - 📫 How to reach me
